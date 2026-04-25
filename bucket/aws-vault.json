@@ -1,14 +1,14 @@
 {
-    "version": "7.9.10",
+    "version": "7.10.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ByteNess/aws-vault/releases/download/v7.9.10/aws-vault-windows-amd64.exe#/aws-vault.exe",
-            "hash": "676359aa47e018733d5a94de5b1cb9c62ce787b6b7875cc3ed05badc8f74df65",
+            "url": "https://github.com/ByteNess/aws-vault/releases/download/v7.10.2/aws-vault-windows-amd64.exe#/aws-vault.exe",
+            "hash": "d36997de60b94659fed7eb933d66d7b8fccba905320d482f81c2a1ef68a7051e",
             "bin": "aws-vault.exe"
         },
         "arm64": {
-            "url": "https://github.com/ByteNess/aws-vault/releases/download/v7.9.10/aws-vault-windows-arm64.exe#/aws-vault.exe",
-            "hash": "777a2df900207b5429bffc13799df64acadf41db60fc21f5db7105c131519183",
+            "url": "https://github.com/ByteNess/aws-vault/releases/download/v7.10.2/aws-vault-windows-arm64.exe#/aws-vault.exe",
+            "hash": "d9c1b0caa31d58edad3b98321e70a7f2bb95a646eabdbfca7b0aa52cba68ad6f",
             "bin": "aws-vault.exe"
         }
     },
