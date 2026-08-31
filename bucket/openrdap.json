@@ -12,12 +12,6 @@
     "homepage": "https://github.com/openrdap/rdap",
     "license": "MIT",
     "description": "RDAP command line client",
-    "shortcuts": [
-        [
-            "rdap.exe",
-            "rdap"
-        ]
-    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
