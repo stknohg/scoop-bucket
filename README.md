@@ -16,3 +16,4 @@ scoop install <manifest name>
 |----|----|:--:|----|
 |ec2rdp|[stknohg/ec2rdp](https://github.com/stknohg/ec2rdp)|[ec2rdp.json](https://raw.githubusercontent.com/stknohg/scoop-bucket/main/bucket/ec2rdp.json)|Remote Desktop Utility for Amazon EC2.|
 |aws-vault|[ByteNess/aws-vault](https://github.com/ByteNess/aws-vault/)|[aws-vault.json](https://raw.githubusercontent.com/stknohg/scoop-bucket/main/bucket/aws-vault.json)|Fork of [99designs/aws-vault](https://github.com/99designs/aws-vault).|
+|openrdap|[openrdap/rdap](https://github.com/openrdap/rdap)|[openrdap.json](https://raw.githubusercontent.com/stknohg/scoop-bucket/main/bucket/openrdap.json)|RDAP command line client|
